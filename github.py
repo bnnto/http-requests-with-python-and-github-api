@@ -1,4 +1,3 @@
-# Requisições HTTP com Python e consumindo a API do GitHub
 import requests
 
 print('GitHub Users\n')
